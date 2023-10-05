@@ -11,16 +11,20 @@ I'm a dedicated tech enthusiast with a commitment to quality work, open communic
 
 
 # Work Experience
-FREEFLANCER FIVERR FEB 2023 - JUL 2023
-I Provide WordPress website development and design services for various categories.
-GLOBAL FOOD CHOICE LIMITED, MANCHESTER PART TIME
+
+* FREEFLANCER FIVERR FEB 2023 - JUL 2023
+- I Provide WordPress website development and design services for various categories.
+
+* GLOBAL FOOD CHOICE LIMITED, MANCHESTER PART TIME
    MANAGER ASSISTANT
 AUG 2020 - JAN 2023
-As a Manager Assistant, my duties included following up with orders, conducting research and analysis, creating reports, and training staff.
-VAPINGOLOGY LTD, DESIGNER / SOCIAL MEDIA
+- As a Manager Assistant, my duties included following up with orders, conducting research and analysis, creating reports, and training staff.
+
+
+* VAPINGOLOGY LTD, DESIGNER / SOCIAL MEDIA
 MANAGER
 MAY 2021- SEP 2022
-As a Graphic Designer and Social Media Manager, I enhanced the company's online presence by creating appealing graphics and executing effective social media strategies.
+- As a Graphic Designer and Social Media Manager, I enhanced the company's online presence by creating appealing graphics and executing effective social media strategies.
 OASIS ICE CREAM, MANCHESTER SHIFT MANAGER
 PART TIME MAY 2018 - JAN 2023
 In this role, I am responsible for managing the shop, from opening and closing to inventory management, customer service, and transactions.
