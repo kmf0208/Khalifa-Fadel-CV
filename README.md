@@ -4,9 +4,23 @@ I'm a dedicated tech enthusiast with a commitment to quality work, open communic
 
 
 
-
-
 | AceBook  | MakersBnb |       Note App        |     P O K E D EX          |
 | ------------- | ------------- | ------------- | ------------- |
 | Engineered a dynamic and interactive social media platform in a collaborative group project. Users can swiftly sign up, share captivating images, foster connections with friends, and engage with the vibrant network through likes and comments.  | Played an active role in a comprehensive group project focused on replicating the user experience of Airbnb. My responsibilities included user authentication, data management, and fostering collaborative teamwork, contributing to a full-stack web development experience.  |     Developed a note-taking application with robust functionality for adding and deleting notes, leveraging the Document Object Model (DOM) for dynamic user interactions. Integrated APIs into the backend, implemented with JavaScript, and crafted an intuitive user interface using HTML and CSS.          |   Designed and developed a dynamic Pokedex application that retrieves and displays Pokemon names, images, and details based on user selection.            |
 | Tech Stack: MongoDB, Node.js, Express.js, React , CSS  | Tech Stack: Python, Flask, PostgreSQL, HTML, CSS  |     Tech Stack: JavaScript, HTML, CSS          |    Tech Stack: JavaScript, HTML, CSS           |
+
+
+# Work Experience
+FREEFLANCER FIVERR FEB 2023 - JUL 2023
+I Provide WordPress website development and design services for various categories.
+GLOBAL FOOD CHOICE LIMITED, MANCHESTER PART TIME
+   MANAGER ASSISTANT
+AUG 2020 - JAN 2023
+As a Manager Assistant, my duties included following up with orders, conducting research and analysis, creating reports, and training staff.
+VAPINGOLOGY LTD, DESIGNER / SOCIAL MEDIA
+MANAGER
+MAY 2021- SEP 2022
+As a Graphic Designer and Social Media Manager, I enhanced the company's online presence by creating appealing graphics and executing effective social media strategies.
+OASIS ICE CREAM, MANCHESTER SHIFT MANAGER
+PART TIME MAY 2018 - JAN 2023
+In this role, I am responsible for managing the shop, from opening and closing to inventory management, customer service, and transactions.
