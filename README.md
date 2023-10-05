@@ -58,3 +58,33 @@ In this role, I am responsible for managing the shop, from opening and closing t
 
 During my time at Makers Academy, I not only improved my technical skills but also demonstrated proficiency in teamwork. Collaborating on projects, I prioritized clear communication within our team. 
 My experiences in this regard underscored the importance of collaborative communication in my approach to projects and learning.
+
+
+
+# Education
+
+* Makers Academy JUL 2023- OCT-2023
+At Makers Academy, I practiced pair programming in JavaScript and Python, emphasizing teamwork, OOP, TDD, and Agile methodologies. Conducting code reviews and pair programming sessions enhanced both my technical skills and collaborative abilities.
+
+
+* Growth Company JAN 2023 - APR 2023
+I've gained expertise in cloud computing (AWS), Python programming, data analytics (NumPy and Pandas), API integration, problem-solving, data visualization, statistical analysis, and cybersecurity. My experience includes AWS exploration, advanced Python proficiency, complex data analysis dynamic API insights, and real-world statistical problem-solving
+
+* GCSE
+North Manchester Libyan School | Sep 2013 - may 2016
+
+
+* LEVEL 3 SPORTS AND ENGLISH
+Salford City College |
+
+
+*LEVEL 2 BUSINESS
+Manchester College Business
+
+
+*LEVEL 2 WORK SKILLS
+Stockport College Work Skills
+
+
+
+# Hobbies
