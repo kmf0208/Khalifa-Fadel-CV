@@ -1,6 +1,6 @@
 # Khalifa-Fadel-CV
 
-I'm a dedicated tech enthusiast with a commitment to quality work, open communication, and effective teamwork. With a strong skill set and a passion for continuous learning, I approach tech projects with a posit ive attitude and a strong work ethic.
+I'm a dedicated tech enthusiast with a commitment to quality work, open communication, and effective teamwork. With a strong skill set and a passion for continuous learning, I approach tech projects with a positive attitude and a strong work ethic.
 
 
 
@@ -62,7 +62,7 @@ My experiences in this regard underscored the importance of collaborative commun
 
 # Certifications
 
-* FORTINET NSE 3: CERTIFIED ASSOCIATE
+* FORTINET NSE 3: CERTIFIED ASSOCIATE Fortinet NSE: Certified Associate
 * AWS CLOUD QUEST: CLOUD PRACTITIONER
 
 
