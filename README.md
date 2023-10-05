@@ -35,9 +35,9 @@ In this role, I am responsible for managing the shop, from opening and closing t
 
 # Skills
 
-• Python 
+- Python 
 - Flask
-• React JS
+- React JS
 - Node Js
 - Git (version control)
 - MongoDB
@@ -62,8 +62,8 @@ My experiences in this regard underscored the importance of collaborative commun
 
 # Certifications
 
-* FORTINET NSE 3: CERTIFIED ASSOCIATE Fortinet NSE: Certified Associate
-* AWS CLOUD QUEST: CLOUD PRACTITIONER
+*  Fortinet NSE: Certified Associate
+*  AWS Cloud Quest: Cloud Practitioner
 
 
 
