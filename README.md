@@ -28,3 +28,21 @@ MAY 2021- SEP 2022
 OASIS ICE CREAM, MANCHESTER SHIFT MANAGER
 PART TIME MAY 2018 - JAN 2023
 In this role, I am responsible for managing the shop, from opening and closing to inventory management, customer service, and transactions.
+
+# Skills
+
+• Python 
+- Flask
+• React JS
+- Node Js
+- Git (version control)
+- MongoDB
+- PostgreSQL
+- SQL
+- Test-driven development
+- RESTful APIs
+- Web Design
+- Swift/SwiftUi
+- WordPress
+- CyberSecurity
+- HTML/CSS
