@@ -1,3 +1,6 @@
+Khalifa-Fadel-CV
+
+I'm a dedicated tech enthusiast with a commitment to quality work, open communication, and effective teamwork. With a strong skill set and a passion for continuous learning, I approach tech projects with a positive attitude and a strong work ethic.
 
 
 
