@@ -60,6 +60,12 @@ During my time at Makers Academy, I not only improved my technical skills but al
 My experiences in this regard underscored the importance of collaborative communication in my approach to projects and learning.
 
 
+# Certifications
+
+* FORTINET NSE 3: CERTIFIED ASSOCIATE
+* AWS CLOUD QUEST: CLOUD PRACTITIONER
+
+
 
 # Education
 
@@ -78,13 +84,18 @@ North Manchester Libyan School | Sep 2013 - may 2016
 Salford City College |
 
 
-*LEVEL 2 BUSINESS
+* LEVEL 2 BUSINESS
 Manchester College Business
 
 
-*LEVEL 2 WORK SKILLS
+* LEVEL 2 WORK SKILLS
 Stockport College Work Skills
 
 
 
 # Hobbies
+
+* Swimming
+* Football 
+* Hiking 
+* Traveling
